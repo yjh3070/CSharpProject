@@ -1,0 +1,14 @@
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\bin\Debug\CSharpDataBaseProject.exe.config
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\bin\Debug\CSharpDataBaseProject.exe
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\bin\Debug\CSharpDataBaseProject.pdb
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\bin\Debug\MySql.Data.dll
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\bin\Debug\Google.Protobuf.dll
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\bin\Debug\MySql.Data.xml
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.csprojResolveAssemblyReference.cache
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.Form1.resources
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.Properties.Resources.resources
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.csproj.GenerateResource.cache
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.csproj.CoreCompileInputs.cache
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.csproj.CopyComplete
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.exe
+C:\CSharpWorkspace\DataBaseProject\CSharpDataBaseProject\obj\Debug\CSharpDataBaseProject.pdb
